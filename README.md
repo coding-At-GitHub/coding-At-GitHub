@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="100%" src="https://raw.githubusercontent.com/DakshJn/DakshJn/master/gifs/coder.gif" >
+<img align="right" alt="coding" width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" >
 <p align="left">
 </p>
 
