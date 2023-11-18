@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coding-at-github" alt="coding-at-github" /></a> </p>
 
-- 🌱 I’m experience in  **ReactJs**
+- 🌱 I’m **Software Developer Experience in ReactJS, Angular, and NodeJS with a solid foundation in Data Structures and Algorithms (DSA) using Java. Skilled in crafting clean, maintainable code for both frontend and backend. Collaborative team player comfortable in diverse work environments, both remote and in-office.**
 
-- 💬 Ask me about **DSA,JavaScript,ReactJs,ReduxToolkit,Angular,TailwindCss,MaterialUI,Bootstrap,AngularMaterial,NextJS,NodeJS,ExpressJs**
+- 💬 Ask me about **ReactJs, DSA, JavaScript, ReduxToolkit, Angular, TailwindCss, MaterialUI, Bootstrap, AngularMaterial, NextJS, NodeJS, ExpressJs**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rajesh-choudhary-89a561285**
 
