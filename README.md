@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs, DSA, JavaScript, ReduxToolkit, Angular, TailwindCss, MaterialUI, Bootstrap, AngularMaterial, NextJS, NodeJS, ExpressJs**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rajesh-choudhary-89a561285)**
+- 📫 How to reach me **[Rajesh Choudhary LinkedIn](https://www.linkedin.com/in/rajesh-choudhary-89a561285)**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="100%" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" >
